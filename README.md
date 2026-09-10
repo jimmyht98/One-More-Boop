@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # One More Boop
 
 A deliberately pointless, touch-friendly web app for iOS and Android. Tap the button, build short streaks, unlock color themes, and enjoy small celebrations for achieving absolutely nothing.
@@ -47,7 +46,3 @@ cd one-more-boop
 npm install
 npm run dev
 ```
-=======
-# One-More-Boop
-A delightfully pointless app with squishy taps, sound, combos, six unlockable styles, and saved progress. Available privately as a mobile web app for iOS/Android.
->>>>>>> 00892bd99801c2a77a495463a634c0e21b1401a2
