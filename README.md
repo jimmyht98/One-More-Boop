@@ -42,7 +42,11 @@ If you received the `.bundle` file, clone it with:
 
 ```bash
 git clone one-more-boop.git.bundle one-more-boop
+
 cd one-more-boop
 npm install
 npm run dev
 ```
+## Credits
+
+Utilized GPT 5.6 Sol for creating this app, while also learning by doing diagnostics, fixing bugs, and implementing new things.
